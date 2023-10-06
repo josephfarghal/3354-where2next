@@ -1,0 +1,35 @@
+﻿—SE Project Proposal—
+Project Name: where2next 
+
+
+Group Members: Oluwadara Morakinyo, Charlie Alpert, Lennon Crow, Ariel Ong, Nuria Habib, John Kasperbauer, Joseph Farghal, Manh Ngo    
+
+
+Project Description: Our project, “where2next,” is a google maps extension that allows the user to easily look for new and exciting outings and restaurants through an adjustable radius feature. With filters for certain user-nominated tags like “peaceful,” “vegan,” or “adrenaline-inducing,” the user can find activities that will match the intended atmosphere of the outing. For example, if the user likes moving and socializing, the user can use the filter for tags like “lively” and “active” to get recommendations. Similar tags are used for food-oriented activities as well. Unlike google maps, where2next keeps a chronological log of the past locations you’ve been to and what you did there. This feature is especially handy if you’re prone to forgetting what you last ordered and whether you liked it or not.
+
+
+Why where2next: Arguing in a stuffy car for ten minutes. Circling around the same parking lot in hopes of seeing something new. Mistakenly ordering a dish you didn’t like the last time. As much as you would like to say you always enjoy yourself on a night out, it’s undeniable that your time out sometimes might be spoiled by indecisiveness amongst your company, boredom at familiar places, or even forgetfulness of your last impression of a location. We chose where2next as our project to skip the stress on where to go and what to do and go straight to having fun. Using visitor nominated tags and recommendations, where2next offers an authentic look on local entertainment and cuisine.
+
+
+
+
+Task Assignment: 
+1. Project Manager: (Ariel) 
+   1. This individual establishes the project timeline and cost estimation. 
+2. Project Report: (Lennon) 
+   1. This individual will be primarily in charge of the report and overall flow of the presentation. (This person also writes the comparison portion to other similar programs). 
+3. Testing Engineer: (Charlie)        
+   1. This individual describes the test plan for testing one portion of our software. 
+4. Function Manager: (Oluwadara)
+   1. This individual will come up with functional and nonfunctional requirements for the software
+5. Architect: (Joseph) 
+   1. This individual will provide an architectural design of the project. 
+6. Case Diagram: (John)
+   1. This individual will be responsible for providing the case diagram as well as assisting on the Project Report. 
+7. Class Diagram: (Nuria) 
+   1. This individual will be responsible for creating the class diagram and writing the appropriate descriptions required. 
+8. Sequence Diagram: (Manh)
+   1. This individual will provide the sequence diagram as well as assisting on the Project Report.  
+
+
+Scholar paper: We do not wish to write a scholarly paper.
