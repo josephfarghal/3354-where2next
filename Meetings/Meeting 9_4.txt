@@ -3,7 +3,7 @@ Meeting Notes (9/4)
 Attendance: everyone
 Meeting goals(?): find out what project we want to do + potentially assign roles(?) 
 Project ideas: 
--  Airline: focuses on staff purposes (internal team) ñ luggage, pilots schedules, flight arrangement
+-  Airline: focuses on staff purposes (internal team) ‚Äì luggage, pilots schedules, flight arrangement
 o Waterfall model(?) possibly incremental
 o Agile environment (customers as internal teams) 
 o Spiral? 
@@ -14,13 +14,13 @@ o Shows all activities/areas around a google maps search
 o Adjustable radius
 o Filters for suggestion
 o Filter to show only desert or activities or food
-o Can put in prompts such as ìdate nightî to tailor results
+o Can put in prompts such as ‚Äúdate night‚Äù to tailor results
 o Dynamic/Adaptive recommendation
 o If you search for a restaurant, it will suggest desert/ activities
 o If you search desert, it will show restaurants
 o Could be good for smaller businesses to market
 o Pinning system(?) 
-o Log (keep track of past things youíve done, past things youíve eaten
+o Log (keep track of past things you‚Äôve done, past things you‚Äôve eaten
 o Tagging system? 
 o How we can potentially section it out: 
 * Recommendation System 
@@ -36,9 +36,9 @@ o This is super popular right now
 * History Log / history of orders and food
 * Private 
 * Write/Edit Review (Private vs Public) 
-* LIke Netflixís most liked?  
+* LIke Netflix‚Äôs most liked?  
        - tagging (by restaurant owners or app users)
-       - history log (places youíve been and what you ate/thought of it)
+       - history log (places you‚Äôve been and what you ate/thought of it)
 -	 recording system/with private reviews (feature prompts u to add these)
        - option to make review public if needed
        - most liked feature
@@ -66,7 +66,7 @@ o Can help family members of caregivers keep in touch
 - Comment Section (Trending comments) (following)
 o Maintain comment section 
 o More extension than application 
-o Trending comments? Comment from someone youíre following (like in your circle)? Comments from people you disagree with? 
+o Trending comments? Comment from someone you‚Äôre following (like in your circle)? Comments from people you disagree with? 
 o FIlter system? (only put up trending comments that are also good with the filtering) 
 - Non-Profit Library Software
 o Checking books in and out
@@ -110,7 +110,7 @@ o Can easily keep up with changes
 - Joseph & Dara & Lennon & Manh: Layered 
 o Build upon google maps already 
 o Practical and intuitive to some extent 
-o Weíre leaning more towards this because weíre going to be building on an existing application 
+o We‚Äôre leaning more towards this because we‚Äôre going to be building on an existing application 
 o Each layer has a clear role
 o Has access to below layers 
 o Easier to store information
