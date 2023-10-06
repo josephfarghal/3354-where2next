@@ -1,0 +1,148 @@
+
+Meeting Notes (9/4)
+Attendance: everyone
+Meeting goals(?): find out what project we want to do + potentially assign roles(?) 
+Project ideas: 
+-  Airline: focuses on staff purposes (internal team) – luggage, pilots schedules, flight arrangement
+o Waterfall model(?) possibly incremental
+o Agile environment (customers as internal teams) 
+o Spiral? 
+
+- Where to Next
+o Google Maps extension (Does it have to be an extension?)
+o Shows all activities/areas around a google maps search
+o Adjustable radius
+o Filters for suggestion
+o Filter to show only desert or activities or food
+o Can put in prompts such as “date night” to tailor results
+o Dynamic/Adaptive recommendation
+o If you search for a restaurant, it will suggest desert/ activities
+o If you search desert, it will show restaurants
+o Could be good for smaller businesses to market
+o Pinning system(?) 
+o Log (keep track of past things you’ve done, past things you’ve eaten
+o Tagging system? 
+o How we can potentially section it out: 
+* Recommendation System 
+* Promotion/Tagging (vegan, allows pets in store, special accommodations)  
+o Vote on tags?  
+o Have owner tags? 
+* Hotspot(?) feature
+o This is super popular right now 
+* Filter/Searching
+* Through tags
+* Distance? 
+* Activities/Place Log 
+* History Log / history of orders and food
+* Private 
+* Write/Edit Review (Private vs Public) 
+* LIke Netflix’s most liked?  
+       - tagging (by restaurant owners or app users)
+       - history log (places you’ve been and what you ate/thought of it)
+-	 recording system/with private reviews (feature prompts u to add these)
+       - option to make review public if needed
+       - most liked feature
+- 
+
+
+- Phone break App / time management
+o An app that forces you take a break from your phone for a set period
+o Encourages activities such as reading, yoga meditation
+o Can incorporate a feature that recommends books
+o Can outsource to meditation apps (Breath, Calm, etc)
+o Will still allow for urgent things such as calling
+- Coding Language Learning App
+o Could do a twist on it for programming languages
+o Like a Duolingo for coding
+- Fitness App
+o Basic Fitness app
+o Can take inputs in such as goals, preferred style of training (calisthenics, powerlifting)
+- Interior Design App
+o Suggest furniture/ product recommendations based on desired style
+- Gardening App
+- Elderly Care App
+o Can help with reminders for medication
+o Can help family members of caregivers keep in touch
+- Comment Section (Trending comments) (following)
+o Maintain comment section 
+o More extension than application 
+o Trending comments? Comment from someone you’re following (like in your circle)? Comments from people you disagree with? 
+o FIlter system? (only put up trending comments that are also good with the filtering) 
+- Non-Profit Library Software
+o Checking books in and out
+o Lost / damaged books
+o Managing library contents
+o Inventory 
+* Sponsors?
+- Delivery Service
+
+NEED TO DO !!!!!!
+- The title of your project - the group members (firstname and lastname)
+WHERE2NEXT
+	* Where 2 next (Activity Recommendation system) 
+- Oluwadara Morakinyo, Charlie Alpert, Lennon Crow, Ariel Ong, Nuria Habib, John Kasperbauer, Joseph Farghal 	
+- a detailed description of your motivation (why you chose to do this particular project), where you expect your design to be used in real life. 
+- the list of tasks delegated to each member: the task delegation should be distributing what to do from start to completion of the project to each member of your group. It does not have to be too detailed. One sentence for each member is sufficient. 
+
+
+Next meeting objective: 
+- Flesh out where2next a little on own
+o Add subtasks into the listed features below (if think of a new feature, can add it)
+- Decide what model you like 
+o Please have a 1-3 sentence reason of why you chose the model
+- Think about tasks we need to do? 
+(moved it up) 
+
+
+
+Meeting two: 9/8 
+Attendance: Lennon, Dara, Ariel, Nuria, John, Manh, Charlie
+Meeting objective: figure out project description and delegate tasks 
+Sample Proposal: https://docs.google.com/document/d/1PJ3rs7KTtf1aGK4xYeR-eWfUw_sXaTv1RG5SNSQ_FrQ/edit?usp=sharing
+
+Meeting Three: 10/6 
+1. Model we liked? 
+a. Spiral
+2. MVC vs Layered Architecture 
+- Lennon: Repository
+o Most familiar 
+o Can easily keep up with changes 
+- Joseph & Dara & Lennon & Manh: Layered 
+o Build upon google maps already 
+o Practical and intuitive to some extent 
+o We’re leaning more towards this because we’re going to be building on an existing application 
+o Each layer has a clear role
+o Has access to below layers 
+o Easier to store information
+* Information can be stored in a more organized manner vs MVC where data is just all together 
+- Charlie & Ariel & Nuria: MVC 
+o Divides system clearly into Model, View, and Controller
+* This is practical if the user has to change data behind the scenes  
+* UI + user interaction + data 
+* Clear separation of components of application 
+* Data and Logic are clearly divided and represented 
+* Monitors other layers
+
+
+
+
+Lennons interpretation of the discussion of architecture
+
+Joseph wants layered 
+- it would integrate with google maps
+- Best used when adding new to old systems 
+
+Arial 
+- Wanted layered and mvc
+- Mvc 
+- Layered works well because we are adding upon google maps 
+
+Charlie
+- Wanted mvc because it is more intuitive 
+
+Nuria
+- Likes mvc it has a clear separation of tasks
+
+
+
+
