@@ -1,0 +1,5 @@
+The user should be able to search for activities based on adjectives such as “lively”.
+The user should be able to set the distance radius of the results they receive from their current location.
+The application should keep a chronological log of past activities the user has attended.
+The application should keep a note for each past activity which includes information on what the user did while there.
+The application should have a secondary mode that enables users to add a public event/activity location.
