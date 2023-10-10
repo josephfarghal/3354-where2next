@@ -2,22 +2,19 @@
   1.1 Search
     1.1.1  Search Bar: User Types what they want
     1.1.2  Tag Pop Ups: Tag options are given the user can click when searching
-      Ex: "lively" "quiet" "classy"
+            Ex: "lively" "quiet" "classy"
     1.1.3  General Option Buttons: Buttons User can click for broad genres
-      Ex: "restaurants" "gyms" 
+            Ex: "restaurants" "gyms" 
   1.2 Location
     1.2.1  Set User Current or Desired Location
     1.2.2  Set Distance Radius
     1.2.3  Distance Slider from 0-50 miles
-  1.3 Feature
-    1.3.1
-    1.3.2
-    1.3.3
-
-Functional Requirements (Delete Later):
-The user should be able to search for activities based on adjectives such as “lively”.
-The user should be able to set the distance radius of the results they receive from their current location.
-The application should keep a chronological log of past activities the user has attended.
-The application should keep a note for each past activity which includes information on what the user did while there.
-The application should have a secondary mode that enables users to add a public event/activity location.
-
+  1.3 History
+    1.3.1  Store user past activity
+    1.3.2  Activity User Info: Rating on Enjoyment, Option to add tags, Things bought/ordered at activity
+    1.3.3  Allow user to make activity public
+  1.4 Create Activity / Location
+    1.4.1  Add public event
+    1.4.2  Temporary events do not require approval
+    1.4.3  Permanant Activities require admin approval
+            Ex: new restaurant added
