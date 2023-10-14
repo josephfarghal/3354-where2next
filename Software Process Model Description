@@ -1,0 +1,8 @@
+The project will be employing the spiral model. 
+Because “where2meet” has multiple features and heavily relies on user interaction, it is necessary to come up with multiple prototypes before slowly perfecting the product. 
+The spiral model offers the perfect division for this. 
+We chose the spiral model over the prototyping evolutionary model because our product deals with a lot of data. 
+As developers, we have a responsibility to protect our user’s privacy, hence with each prototype created, risk must be analyzed to ensure data is not vulnerable. 
+The spiral model allows developers to move cyclically, repeating some steps to ensure we are able to meet requirements while developing a secure product that our customer is comfortable using. 
+The cycle of determining objectives and constraints before evaluating and resolving risk in order to develop product before planning the next phase offers an organic feel to the development process. 
+If we are to use the spiral model in conjunction of beta testing, the product should be able to satisfy user needs in a secure manner.  
