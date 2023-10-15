@@ -3,3 +3,119 @@ The user should be able to set the distance radius of the results they receive f
 The application should keep a chronological log of past activities the user has attended.
 The application should keep a note for each past activity which includes information on what the user did while there.
 The application should have a secondary mode that enables users to add a public event/activity location.
+
+
+
+
+**Functional Requirements for Where2Next Software:**
+
+1. Search:
+   - Users can type keywords to search for activities.
+   - Users can filter search results by clicking on tags like "lively," "quiet," and "classy."
+   - Users can filter results by clicking on buttons representing broad genres like "restaurants" or "gyms."
+
+2. Location:
+   - Users must specify their location.
+   - Users can set a distance radius for the search results.
+   - There should be a slider to set the distance from 0-50 miles.
+
+3. History:
+   - The application maintains a chronological log of the user's past activities.
+   - Users can provide and view details about past activities, including enjoyment ratings, added tags, and things bought/ordered during the activity.
+   - Users have the option to make their past activities public.
+
+4. Create Activity / Location:
+   - Users can add public events or locations.
+   - Temporary events do not require approval.
+   - Permanent activities require admin approval.
+
+5. Google Maps Extension:
+   - Shows all activities/areas around a Google Maps search.
+   - Allows an adjustable radius for search results.
+   - Provides filters for suggestions such as activities, food, or specific categories like "dessert."
+   - Supports search prompts like "date night" to tailor results.
+   - Offers dynamic/adaptive recommendations for related activities or places.
+   - Utilizes a pinning system (if needed) to save places or activities.
+   - May include a tagging system for businesses or activities.
+   - Incorporates a recommendation system.
+   - Supports promotion and tagging features (e.g., vegan-friendly, pet-friendly).
+   - Allows users to vote on tags and enables business owners to add tags.
+   - Potentially includes a "Hotspot" feature.
+
+6. Filter/Searching:
+   - Users can filter search results through tags and distance.
+
+7. Activities/Place Log:
+   - Maintain a history log of past activities, places, and orders.
+
+8. Private/Public Review:
+   - Users can write and edit reviews for activities, with the option to keep them private or make them public.
+   - Implement a "most liked" feature for reviews.
+
+9. User Profiles:
+   - Users should be able to create accounts and log in.
+   - Users can create and manage their profiles, including profile pictures, preferences, and contact information.
+
+10. Social Sharing:
+    - Users can share their favorite activities or locations on social media platforms.
+
+11. Event Reminders:
+    - Users can set up reminders for upcoming events or activities.
+
+12. Ratings and Reviews:
+    - Users can rate and write reviews for activities and locations.
+    - Admins can moderate and manage user reviews to ensure quality and appropriateness.
+
+13. User Interactions:
+    - Users can leave comments on activities or locations.
+    - Users can communicate with each other through an in-app messaging system.
+
+14. Personalized Recommendations:
+    - The system should provide personalized recommendations based on a user's past activities and preferences.
+
+15. Notification System:
+    - Users receive notifications about events, comments, and interactions within the app.
+
+**Non-Functional Requirements for Where2Next Software:**
+
+1. Usability: The software should have an intuitive and user-friendly interface, making it easy for users to search and interact with activities and locations.
+
+2. Performance: The application should provide search results and recommendations in a timely manner, ensuring a responsive user experience.
+
+3. Security: User data and private reviews must be securely stored and protected from unauthorized access.
+
+4. Scalability: The system should be designed to accommodate an increasing number of users and activities over time.
+
+5. Reliability: The software should be stable and available for use, minimizing downtime and service interruptions.
+
+6. Compatibility: The application should work on various devices and web browsers.
+
+7. Maintainability: The software should be easy to update, maintain, and extend with new features.
+
+8. Integration: Integration with Google Maps should be seamless, and other third-party services may need to be considered for future expansion.
+
+9. Performance Optimization: Ensure the application can handle a large volume of data and provide efficient search results and recommendations.
+
+10. Data Privacy: Comply with data privacy regulations and obtain user consent for collecting and using personal information.
+
+11. Accessibility: Ensure the software is accessible to individuals with disabilities, adhering to accessibility standards.
+
+12. Data Backup and Recovery: Implement data backup and recovery mechanisms to protect user data in case of system failures or data loss.
+
+13. High Availability: Ensure that the software is highly available, minimizing downtime to provide continuous service to users.
+
+14. Scalability and Load Testing: Perform load testing to assess how the system handles an increasing number of users and activities. Ensure the system can scale as needed.
+
+15. Data Privacy and Compliance: Comply with data protection regulations, such as GDPR or CCPA, to safeguard user data and privacy.
+
+16. Data Encryption: Implement data encryption to protect user data in transit and at rest.
+
+17. User Support: Offer customer support channels, including email or chat support, to assist users with issues and inquiries.
+
+18. Performance Monitoring: Implement performance monitoring tools to detect and address performance issues in real-time.
+
+19. User Training and Onboarding: Provide user training resources or onboarding guides to help users make the most of the app's features.
+
+20. Feedback and Continuous Improvement: Encourage user feedback and have a process for continuous improvement based on user suggestions and needs.
+
+21. Scalable Infrastructure: Ensure that the underlying infrastructure can scale to meet the growing demands of users and data.
