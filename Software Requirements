@@ -1,5 +1,5 @@
 Functional Requirements
-1. The user should be able to search for activities based on adjectives such as “lively” (filter) 
+1. The user should be able to search for activities based on adjectives such as “lively” (filter) or specific key-words (vegan, epilepsy-friendly) 
 2. The user should be able to set the distance radius of the results they receive from their current location.
 3. The application should keep a chronological log of past activities the user has attended.
 4. The application should keep a note for each past activity which includes information on what the user did while there.
@@ -7,16 +7,10 @@ Functional Requirements
    - applications should be linked to locations 
 5. The application should have a secondary mode that enables users to add a public event/activity location.
 6. The user should be able to "vote" on user reviews/descriptions
-7. The user should be able to search for locations offering specific services through the accomodations filter
-8. Application should be able to generate comparison of two locations based on user inputs
+7. Application should be able to generate comparison of two locations based on user inputs
    - Comparisons should be based on most popular adjectives describing the location as well as possible activities
    - Types of accomodations should be compared as well
-9. The application should have a "private" feature that hides all user history from public 
-10. Verified users should be able to pay to promote certain locations 
-11. Application should allow verification after user surpasses 500+ likes on all location/activity reviews
-   - Verification is done through user prompting and document proving identity (driver's license, passport, tax filing) 
-12. Application should allow an "in-house" camera 
-13. User should be able to share activity to other social media platforms 
+
 
 
 Non-functional Requirements 
@@ -32,63 +26,6 @@ Non-functional Requirements
 7. Updates on software should be done during the hours servers receive the least traffic and should take
    no more than 6 hours 
 
-**Functional Requirements for Where2Next Software:**
-
-
-
-
-
-4. Create Activity / Location:
-   - Users can add public events or locations.
-   - Temporary events do not require approval.
-   - Permanent activities require admin approval.
-
-5. Google Maps Extension:
-   - Shows all activities/areas around a Google Maps search.
-   - Allows an adjustable radius for search results.
-   - Provides filters for suggestions such as activities, food, or specific categories like "dessert."
-   - Supports search prompts like "date night" to tailor results.
-   - Offers dynamic/adaptive recommendations for related activities or places.
-   - Utilizes a pinning system (if needed) to save places or activities.
-   - May include a tagging system for businesses or activities.
-   - Incorporates a recommendation system.
-   - Supports promotion and tagging features (e.g., vegan-friendly, pet-friendly).
-   - Allows users to vote on tags and enables business owners to add tags.
-   - Potentially includes a "Hotspot" feature.
-
-6. Filter/Searching:
-   - Users can filter search results through tags and distance.
-
-7. Activities/Place Log:
-   - Maintain a history log of past activities, places, and orders.
-
-8. Private/Public Review:
-   - Users can write and edit reviews for activities, with the option to keep them private or make them public.
-   - Implement a "most liked" feature for reviews.
-
-9. User Profiles:
-   - Users should be able to create accounts and log in.
-   - Users can create and manage their profiles, including profile pictures, preferences, and contact information.
-
-10. Social Sharing:
-    - Users can share their favorite activities or locations on social media platforms.
-
-11. Event Reminders:
-    - Users can set up reminders for upcoming events or activities.
-
-12. Ratings and Reviews:
-    - Users can rate and write reviews for activities and locations.
-    - Admins can moderate and manage user reviews to ensure quality and appropriateness.
-
-13. User Interactions:
-    - Users can leave comments on activities or locations.
-    - Users can communicate with each other through an in-app messaging system.
-
-14. Personalized Recommendations:
-    - The system should provide personalized recommendations based on a user's past activities and preferences.
-
-15. Notification System:
-    - Users receive notifications about events, comments, and interactions within the app.
 
 **Non-Functional Requirements for Where2Next Software:**
 
