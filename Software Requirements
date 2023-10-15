@@ -14,6 +14,8 @@ Functional Requirements
 10. Verified users should be able to pay to promote certain locations 
 11. Application should allow verification after user surpasses 500+ likes on all location/activity reviews
    - Verification is done through user prompting and document proving identity (driver's license, passport, tax filing) 
+12. Application should allow an "in-house" camera 
+
 
 Non-functional Requirements 
 1. Each user will be allocated 10 GB in data to store location history and additional notes 
