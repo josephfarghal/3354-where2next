@@ -4,6 +4,7 @@ Functional Requirements
 3. The application should keep a chronological log of past activities the user has attended.
 4. The application should keep a note for each past activity which includes information on what the user did while there.
    - For every past activity done, user should be able to append adjectives from application bank to describe the activity
+   - applications should be linked to locations 
 5. The application should have a secondary mode that enables users to add a public event/activity location.
 6. The user should be able to "vote" on user reviews/descriptions
 7. The user should be able to search for locations offering specific services through the accomodations filter
@@ -15,6 +16,7 @@ Functional Requirements
 11. Application should allow verification after user surpasses 500+ likes on all location/activity reviews
    - Verification is done through user prompting and document proving identity (driver's license, passport, tax filing) 
 12. Application should allow an "in-house" camera 
+13. User should be able to share activity to other social media platforms 
 
 
 Non-functional Requirements 
@@ -32,20 +34,9 @@ Non-functional Requirements
 
 **Functional Requirements for Where2Next Software:**
 
-1. Search:
-   - Users can type keywords to search for activities.
-   - Users can filter search results by clicking on tags like "lively," "quiet," and "classy."
-   - Users can filter results by clicking on buttons representing broad genres like "restaurants" or "gyms."
 
-2. Location:
-   - Users must specify their location.
-   - Users can set a distance radius for the search results.
-   - There should be a slider to set the distance from 0-50 miles.
 
-3. History:
-   - The application maintains a chronological log of the user's past activities.
-   - Users can provide and view details about past activities, including enjoyment ratings, added tags, and things bought/ordered during the activity.
-   - Users have the option to make their past activities public.
+
 
 4. Create Activity / Location:
    - Users can add public events or locations.
