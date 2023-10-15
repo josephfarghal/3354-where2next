@@ -14,59 +14,24 @@ Functional Requirements
 
 
 Non-functional Requirements 
-1. Each user will be allocated 10 GB in data to store location history and additional notes 
+1. Each user will be allocated 10 GB in data to store location history and additional notes (
    - If 10GB is passed, then a paywall will appear 
-2. Application must be available to use at all times
-3. Application must not sell user data to third-party companies for profit 
-4. To protect against fake reviews, a user must take a photo of the location with the application camera. As well as
-   have the locations traveled to be in a relative distance in each other per time frame (distance travel automatically
-   calculated against entries between time with a margine of error of 5%) 
-5. Time to restart after failure should be 10 seconds 
-6. Each user transaction should take no more than 5 mseconds 
-7. Updates on software should be done during the hours servers receive the least traffic and should take
+   - This requirement is derived from the space requirement leaf from figure 4.3 
+2. Application must be written in a secure and reliable language 
+   - Secure in the sense that the develoeprs will prioritize language security over memory efficientness 
+   - This requirement is derived from the development requirements derived from figure 4.3 
+3. The application must be supported on Android and IOS operating systems per Google Maps available usage 
+   - This requirement is derived from the operational requirements leaf from figure 4.3 
+4. To protect against fake/spam accounts, the user will have to use some sort of third-party authentication to verify their identity
+   - This requirement is derived from the product security requirement leaf from figure 4.3 
+5. Each user transaction should take no more than 5 mseconds 
+   - This requirement is derived from the performance requirements leaf from figure 4.3 
+6. Updates on software should be done during the hours servers receive the least traffic and should take
    no more than 6 hours 
-
-
-**Non-Functional Requirements for Where2Next Software:**
-
-1. Usability: The software should have an intuitive and user-friendly interface, making it easy for users to search and interact with activities and locations.
-
-2. Performance: The application should provide search results and recommendations in a timely manner, ensuring a responsive user experience.
-
-3. Security: User data and private reviews must be securely stored and protected from unauthorized access.
-
-4. Scalability: The system should be designed to accommodate an increasing number of users and activities over time.
-
-5. Reliability: The software should be stable and available for use, minimizing downtime and service interruptions.
-
-6. Compatibility: The application should work on various devices and web browsers.
-
-7. Maintainability: The software should be easy to update, maintain, and extend with new features.
-
-8. Integration: Integration with Google Maps should be seamless, and other third-party services may need to be considered for future expansion.
-
-9. Performance Optimization: Ensure the application can handle a large volume of data and provide efficient search results and recommendations.
-
-10. Data Privacy: Comply with data privacy regulations and obtain user consent for collecting and using personal information.
-
-11. Accessibility: Ensure the software is accessible to individuals with disabilities, adhering to accessibility standards.
-
-12. Data Backup and Recovery: Implement data backup and recovery mechanisms to protect user data in case of system failures or data loss.
-
-13. High Availability: Ensure that the software is highly available, minimizing downtime to provide continuous service to users.
-
-14. Scalability and Load Testing: Perform load testing to assess how the system handles an increasing number of users and activities. Ensure the system can scale as needed.
-
-15. Data Privacy and Compliance: Comply with data protection regulations, such as GDPR or CCPA, to safeguard user data and privacy.
-
-16. Data Encryption: Implement data encryption to protect user data in transit and at rest.
-
-17. User Support: Offer customer support channels, including email or chat support, to assist users with issues and inquiries.
-
-18. Performance Monitoring: Implement performance monitoring tools to detect and address performance issues in real-time.
-
-19. User Training and Onboarding: Provide user training resources or onboarding guides to help users make the most of the app's features.
-
-20. Feedback and Continuous Improvement: Encourage user feedback and have a process for continuous improvement based on user suggestions and needs.
-
-21. Scalable Infrastructure: Ensure that the underlying infrastructure can scale to meet the growing demands of users and data.
+   - This requirement is derived from the regulatory requirements leaf from figure 4.3 
+7. (Environmental requirement) 
+8. (accounting requirement) 
+9. (usability requirement) 
+10. (dependability requirement) 
+11. This app will not sell user data to third parties. Data will only be used to observe user trends and for the recommondation system. 
+   - This requirement is derived from the safety/security requirements leaf derived from the legislative node from figure 4.3
