@@ -1,11 +1,32 @@
-The user should be able to search for activities based on adjectives such as “lively”.
-The user should be able to set the distance radius of the results they receive from their current location.
-The application should keep a chronological log of past activities the user has attended.
-The application should keep a note for each past activity which includes information on what the user did while there.
-The application should have a secondary mode that enables users to add a public event/activity location.
+Functional Requirements
+1. The user should be able to search for activities based on adjectives such as “lively” (filter) 
+2. The user should be able to set the distance radius of the results they receive from their current location.
+3. The application should keep a chronological log of past activities the user has attended.
+4. The application should keep a note for each past activity which includes information on what the user did while there.
+   - For every past activity done, user should be able to append adjectives from application bank to describe the activity
+5. The application should have a secondary mode that enables users to add a public event/activity location.
+6. The user should be able to "vote" on user reviews/descriptions
+7. The user should be able to search for locations offering specific services through the accomodations filter
+8. Application should be able to generate comparison of two locations based on user inputs
+   - Comparisons should be based on most popular adjectives describing the location as well as possible activities
+   - Types of accomodations should be compared as well
+9. The application should have a "private" feature that hides all user history from public 
+10. Verified users should be able to pay to promote certain locations 
+11. Application should allow verification after user surpasses 500+ likes on all location/activity reviews
+   - Verification is done through user prompting and document proving identity (driver's license, passport, tax filing) 
 
-
-
+Non-functional Requirements 
+1. Each user will be allocated 10 GB in data to store location history and additional notes 
+   - If 10GB is passed, then a paywall will appear 
+2. Application must be available to use at all times
+3. Application must not sell user data to third-party companies for profit 
+4. To protect against fake reviews, a user must take a photo of the location with the application camera. As well as
+   have the locations traveled to be in a relative distance in each other per time frame (distance travel automatically
+   calculated against entries between time with a margine of error of 5%) 
+5. Time to restart after failure should be 10 seconds 
+6. Each user transaction should take no more than 5 mseconds 
+7. Updates on software should be done during the hours servers receive the least traffic and should take
+   no more than 6 hours 
 
 **Functional Requirements for Where2Next Software:**
 
