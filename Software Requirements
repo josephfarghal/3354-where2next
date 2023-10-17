@@ -14,32 +14,35 @@ Functional Requirements
 
 
 Non-functional Requirements 
-1. Each user will be allocated 10 GB in data to store location history and additional notes (
-   - If 10GB is passed, then a paywall will appear 
-   - This requirement is derived from the space requirement leaf from figure 4.3 
-2. Application must be written in a secure and reliable language 
-   - Secure in the sense that the develoeprs will prioritize language security over memory efficientness 
-   - This requirement is derived from the development requirements derived from figure 4.3 
-3. The application must be supported on Android and IOS operating systems per Google Maps available usage 
-   - This requirement is derived from the operational requirements leaf from figure 4.3 
-4. To protect against fake/spam accounts, the user will have to use some sort of third-party authentication to verify their identity
-   - This requirement is derived from the product security requirement leaf from figure 4.3 
-5. Each user transaction should take no more than 5 mseconds 
-   - This requirement is derived from the performance requirements leaf from figure 4.3 
-6. Updates on software should be done during the hours servers receive the least traffic and should take
-   no more than 6 hours 
-   - This requirement is derived from the regulatory requirements leaf from figure 4.3 
-7. The application must be run on a physical computer device that is between 32 to 95 degrees Fahrenheit in temperature for the specified product requirements to be met
-   - This requirement is derived from the environmental requirement leaf from figure 4.3
-8. Application profits must be reviewed every fiscal quarter and discrepancies in profits and operational costs are to be addressed within 72 hours.
-   - This requirement is derived from the accounting requirement leaf from figure 4.3
-9. After completing the 1 minute application walk-through video, users should be able to identify the buttons for specific tasks 
+[Product Requirements]
+1. After completing the 1 minute application walk-through video, users should be able to identify the buttons for specific tasks 
    (e.g. searching a location, accessing activity logs) within 30 seconds.
    - This requirement is derived from the usability requirement leaf from figure 4.3
-10. The application should not have more than three, 30 minute down-times within a 30-day period. 
+2. Each user transaction should take no more than 5 mseconds 
+   - This requirement is derived from the performance requirements leaf from figure 4.3 
+3. Each user will be allocated 10 GB in data to store location history and additional notes
+   - If 10GB is passed, then a paywall will appear 
+   - This requirement is derived from the space requirement leaf from figure 4.3 
+4. The application should not have more than three, 30 minute down-times within a 30-day period. 
    Every down-time must be addressed and closed within 30 minutes.
-   - This requirement is derived from the dependability requirement leaf from figure 4.3 
-11. This app will not sell user data to third parties. Data will only be used to observe user trends and for the recommondation system. 
-   - This requirement is derived from the safety/security requirements leaf derived from the legislative node from figure 4.3
-12. The application will screen out activities that contain illegal and/or hateful/discriminatory language (e.g. drugs, white-supremacist groups)
+   - This requirement is derived from the dependability requirement leaf from figure 4.3
+5. To protect against fake/spam accounts, the user will have to use some sort of third-party authentication to verify their identity
+   - This requirement is derived from the security requirement leaf derived from the product requirement node from figure 4.3 
+[Organizational Requirements]
+6. The application must be run on a physical computer device that is between 32 to 95 degrees Fahrenheit in temperature for the specified product requirements to be met
+   - This requirement is derived from the environmental requirement leaf from figure 4.3
+7. The application must be supported on Android and IOS operating systems per Google Maps available usage 
+   - This requirement is derived from the operational requirements leaf from figure 4.3
+8. Application must be written in a secure and reliable language 
+   - Secure in the sense that the develoeprs will prioritize language security over memory efficientness 
+   - This requirement is derived from the development requirements derived from figure 4.3
+[External Requirements]
+9. Updates on software should be done during the hours servers receive the least traffic and should take
+   no more than 6 hours 
+   - This requirement is derived from the regulatory requirements leaf from figure 4.3
+10. The application will screen out activities that contain illegal actions and/or hateful/discriminatory language (e.g. drugs, prostitution,  white-supremacist groups)
    - This requirement is derived from the ethical requirements leaf from figure 4.3
+11. Application profits must be reviewed every fiscal quarter and discrepancies in profits and operational costs are to be addressed within 72 hours.
+   - This requirement is derived from the accounting requirement leaf from figure 4.3
+12. This app will not sell user data to third parties. Data will only be used to observe user trends and for the recommondation system. 
+   - This requirement is derived from the safety/security requirements leaf derived from the legislative requirement node from figure 4.3
