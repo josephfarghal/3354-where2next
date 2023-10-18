@@ -6,10 +6,6 @@ Functional Requirements
    - For every past activity done, user should be able to append adjectives from application bank to describe the activity
    - applications should be linked to locations 
 5. The application should have a secondary mode that enables users to add a public event/activity location.
-6. The user should be able to "vote" on user reviews/descriptions
-7. Application should be able to generate comparison of two locations based on user inputs
-   - Comparisons should be based on most popular adjectives describing the location as well as possible activities
-   - Types of accomodations should be compared as well
 
 
 
