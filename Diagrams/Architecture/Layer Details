@@ -15,6 +15,9 @@ Layer Specifics
            -Other data such as Favorite Places and User Account Info can be extracted from/stored via Google
                   Favorite Place: Rather than storing the Users Favorite Places, it can rather create a Favorites Category on Google Maps and simply add the locations                                   to it
                   User Account:   Rather than having users create a Where2Next Account, we can simply associate Where2Next User data to their preexisting Gmail Account
+                  Broader Filters such as Resturant/Gym potentially may be reused from google since google maps has these features built in already
+    -My only motive to limit what is stored here is because if not careful I feel a tremendous amount of data will end up being stored which is redundant as Google Maps
+    alread stores the data and it would be more efficent to 
 
 Google Maps Interface:
     -We do not have access to the internals to Google Maps, so Where2Next must use it as if it were a ordinary user.
