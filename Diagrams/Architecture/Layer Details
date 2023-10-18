@@ -1,0 +1,28 @@
+Layer Specifics
+  Where2Next User Interface
+    -Provides the graphical interface to user
+    -Maps User Interaction to Logic Operations/Functions
+
+  Where2Next Logic/Functional Layer
+    -Can be though of as the "Engine" of the Software
+    -Receives inputs from the User Interface that correspond to the users actions
+    -Carries out operations and requests necessary data from Where2Next DataBase
+
+  Where2Next Database
+    -Houses all data specific to Where2Next such as tags, user data (History, Reveiws, Activites, Events)
+    -Goal here is restrict stored data only to that which is absolutely necessary/unique to Where2Next
+    -We should aim to use googles maps functionality as much as possible 
+           -Other data such as Favorite Places and User Account Info can be extracted from/stored via Google
+                  Favorite Place: Rather than storing the Users Favorite Places, it can rather create a Favorites Category on Google Maps and simply add the locations                                   to it
+                  User Account:   Rather than having users create a Where2Next Account, we can simply associate Where2Next User data to their preexisting Gmail Account
+
+Google Maps Interface:
+    -We do not have access to the internals to Google Maps, so Where2Next must use it as if it were a ordinary user.
+    -Google Maps will provide end details to searchs such as adress, store closing time, and reveiws
+    -The data from Google Map can be processed however necessary and presented via the Where2Next Interface rather than the Google Maps Interface
+
+
+Future Additions/Notes:
+  -Provide an Example Search to better demonstrate how the layers interact with one another
+    
+    
