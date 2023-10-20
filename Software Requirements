@@ -5,7 +5,7 @@ Functional Requirements
 4. The application shall keep a note for each past activity which includes information on what the user did while there.
    - For every past activity done, user should be able to append adjectives from application bank to describe the activity
 5. The application shall have a secondary mode that enables users to add a public event/activity location.
-6. The user shall be able to share activities from this application to external applications (e.g. social media)
+6. The user shall be able to share activities from the application to external applications (e.g. social media)
 
 
 
