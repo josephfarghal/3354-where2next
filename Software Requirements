@@ -1,11 +1,11 @@
 Functional Requirements
-1. The user should be able to search for activities based on adjectives such as “lively” (filter) or specific key-words (vegan, epilepsy-friendly) 
-2. The user should be able to set the distance radius of the results they receive from their current location.
-3. The application should keep a chronological log of past activities the user has attended.
-4. The application should keep a note for each past activity which includes information on what the user did while there.
+1. The user shall be able to search for activities based on adjectives such as “lively” (filter) or specific key-words (vegan, epilepsy-friendly) 
+2. The user shall be able to set the distance radius of the results they receive from their current location.
+3. The application shall keep a chronological log of past activities the user has attended.
+4. The application shall keep a note for each past activity which includes information on what the user did while there.
    - For every past activity done, user should be able to append adjectives from application bank to describe the activity
-   - applications should be linked to locations 
-5. The application should have a secondary mode that enables users to add a public event/activity location.
+5. The application shall have a secondary mode that enables users to add a public event/activity location.
+6. The user shall be able to share activities from this application to external applications (e.g. social media)
 
 
 
