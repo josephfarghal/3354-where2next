@@ -1,31 +1,20 @@
 Layer Specifics
+
   Where2Next User Interface
-    -Provides the graphical interface to user
-    -Maps User Interaction to Logic Operations/Functions
+    -Provides the graphical interface to user (Renders data and interface to user)
+    -Initiates all requests for data and operations via the users actions
 
   Where2Next Logic/Functional Layer
-    -Can be though of as the "Engine" of the Software
-    -Receives inputs from the User Interface that correspond to the users actions
+    -Receives inputs from the User Interface and maps user interaction to corresponding logic operations/functions
     -Carries out operations and requests necessary data from Where2Next DataBase
 
   Where2Next Database
-    -Houses all data specific to Where2Next such as tags, user data (History, Reveiws, Activites, Events)
-    -Goal here is restrict stored data only to that which is absolutely necessary/unique to Where2Next
-    -We should aim to use googles maps functionality as much as possible 
-           -Other data such as Favorite Places and User Account Info can be extracted from/stored via Google
-                  Favorite Place: Rather than storing the Users Favorite Places, it can rather create a Favorites Category on Google Maps and simply add the locations                                   to it
-                  User Account:   Rather than having users create a Where2Next Account, we can simply associate Where2Next User data to their preexisting Gmail Account
-                  Broader Filters such as Resturant/Gym potentially may be reused from google since google maps has these features built in already
-    -My only motive to limit what is stored here is because if not careful I feel a tremendous amount of data will end up being stored which is redundant as Google Maps
-    alread stores the data and it would be more efficent to 
+    -Houses all data specific to Where2Next such as tags and user data (Account Information, History, Reveiws, Activites, Events)
+    -Actual location and event details are not stored here as this information can easily be retreived from Google Maps and we want 
+     to avoid accessive and redundant memory usage.
+          -Goal here is restrict stored data only to that which is necessary and unique to Where2Next
 
 Google Maps Interface:
-    -We do not have access to the internals to Google Maps, so Where2Next must use it as if it were a ordinary user.
-    -Google Maps will provide end details to searchs such as adress, store closing time, and reveiws
+    -We do not have access to the internals to Google Maps, so Where2Next must use it as if it were a ordinary end user.
+    -Google Maps will provide end details such as address, closing time, and directions
     -The data from Google Map can be processed however necessary and presented via the Where2Next Interface rather than the Google Maps Interface
-
-
-Future Additions/Notes:
-  -Provide an Example Search to better demonstrate how the layers interact with one another
-    
-    
