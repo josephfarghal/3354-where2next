@@ -1,4 +1,11 @@
-Layer Specifics
+An overview of the architectural model for our software project. The architectural model serves as a blueprint for the 
+design and structure of our software, outlining the key components, their interactions, and the overall system's organization.
+
+Figure 6.8 and 6.9 of the Chapter 6 Slides were used as a reference for the model.
+
+ExampleSearch.pdf is a diagram displaying the steps of a search operation in the software to help better demonstrate how the layer interact with one another.
+
+Layer Details:
 
   Where2Next User Interface
     -Provides the graphical interface to user (Renders data and interface to user)
