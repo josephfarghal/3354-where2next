@@ -8,32 +8,79 @@ workload for deliverable 2 and vice versa.
 Overall, our group agreed that everyone contributed fairly and did their part. 
 Below is the explicit list of what each team member did for deliverable 2.
 
-Charlie 
-- Wrote the Conclusion for the project alongside Nuria
-- Proofread the project to ensure it was free of any errors
-- Finalized and refined the presentation to its finished stated
+Throughout the entire project, all team members actively communicated and kept up to date with the project via Microsoft Teams and our occasional online meetings. Alongside this, in an attempt to distribute the work evenly, individuals who were assigned a larger portion for the first deliverable were given a lighter workload for deliverable 2 and vice versa. Overall, our group agreed that everyone contributed fairly and did their part. 
+Below is the explicit list of what each team member did for deliverable 1 and 2.
 
-Joseph 
-- Listed the delegation of tasks for deliverable 2
-- Collaborated with Lennon to complete the timeline for the project
+Charlie Alpert 
+-	Deliverable #1 
+o	Attached the Final Project draft description while also addressing the instructor's feedback
+o	Made a commit on the repository titled “project scope” with the descriptions of what our project would do
+ 
+-	Deliverable #2 
+o	Wrote the Conclusion for the project alongside Nuria
+o	Proofread the project to ensure it was free of any errors
+o	Finalized and refined the presentation to its finished stated
 
-Dara (Oluwadara) 
-- Collaborated with Ariel to estimated the cost of the project
+Joseph Farghal
+-	Deliverable #1
+o	Set up the GitHub repository for the project 
+o	Depicted Layered Architecture pattern for the project 
 
-John 
-- Created the Test Plan for the project with Ariel
+-	Deliverable #2 
+o	Listed the delegation of tasks for Deliverable #2
+o	Collaborated with Lennon to complete the timeline for the project
+o	Compiled final report for Deliverable #2 with Ariel 
 
-Manh 
-- Compared our teams project to existing apps such as Life360 and Swarm
+Dara (Oluwadara) Morakinyo
+-	Deliverable #1
+o	Made the first commit to the repository with the README file
+o	 Created the functional and non-functional requirements. 
 
-Nuria 
-- Wrote the Conclusion for the project alongside Charlie
-- Proofread the project to ensure it was free of any errors
-- Finalized and refined the presentation to its finished stated
+-	Deliverable #2 
+o	Collaborated with Ariel to estimated the cost of the project 
+	Determined costs of softwares needed for development 
+	Determined parameters for function point algorithm. 
 
-Ariel 
-- Collaborated with Dara to estimated the cost of the project
-- Created the Test Plan for the project with John
+John Kasperbauer 
+-	Deliverable #1
+o	Created the use case diagram for the project
+o	 Created the functional and non-functional requirements
 
-Lennon 
-- Created the timeline for the project based on the Function Point Time estimation. (Provided day by day breakdown of tasks)
+-	Deliverable #2 
+o	Created the Test Plan for the project
+o	Wrote the code to test with JUnit
+
+Manh Ngo
+-	Deliverable #1
+o	Created the sequence diagram for each case use 
+
+-	Deliverable #2 
+o	Compared team project to existing apps such as Life360 and Swarm
+
+Nuria Habib 
+-	Deliverable #1
+o	Created the class diagram showing the cardinalities and relationship types between the classes as well as attributes and methods 
+
+-	Deliverable #2 
+o	Wrote the conclusion for the project
+o	Proofread the project to ensure it was free of any errors
+o	Finalized and refined the presentation with Charlie 
+
+Ariel Ong
+-	Deliverable #1
+o	Wrote the delegation of tasks and justification behind choosing the spiral model
+
+-	Deliverable #2 
+o	Compiled final deliverable document with Joseph 
+o	Collaborated with Dara to estimate the cost of the project 
+	Determined costs of softwares needed for development 
+	Determined parameters for function point algorithm. 
+
+Lennon Crow
+-	Deliverable #1
+o	Kept group on schedule while also compiling the report for Deliverable #1 
+
+-	Deliverable #2 
+o	Created the timeline for the project and provided day by day breakdown of tasks 
+
+
