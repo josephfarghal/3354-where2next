@@ -1,0 +1,11 @@
+To test our software the minimium unit required for our software to function is the user profile containing user information.
+Here there are six test cases in this particular order: a successful creation of a new user (as an object), a test case for both
+valid and invalid ages when registering, a test case for both valid and invalid names when registering, and a failed test case for 
+passwords when registering. A single user profile requires three things: a valid name, a valid password, and a valid age.
+An age is considred valid if the user's age is within 15 to 109 years of life (14 < X < 110, where X is the user age). A [user]name
+is valid if both inputted names are no greater than 20 characters in length (the underscore is added by the system and not by the user
+so 41 characters maximium). Finally a password is considered valid if the length of the password is either between or exactly 6 and 12 
+characters long, complexity is not required! (6 <= X <= 12, where X is the number of characters in the password). Should a user successfully
+meet all criteria they will become registered as a user and added to the data base [implmentation pending], but should a user fail at any 
+stage of the criteria then they will be prompted to correct their error. This does not extend to user age verification as a failiure for
+that component results in a critical failiure as a way to discourage underaged and joke accounts from becoming created.
